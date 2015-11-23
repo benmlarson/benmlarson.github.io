@@ -30,8 +30,8 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Contact: "contact"
-  Author's home: "http://deanattali.com"
-  
+#  Author's home: "http://deanattali.com"
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -44,7 +44,7 @@ author:
   twitter: benmlarson   # eg. daattali
   linkedin: /in/benjaminmlarson  # eg. "pub/dean-attali/8/946/143"
 #  stackoverflow: yourlink  # eg. "3943160/daattali"
- 
+
 # Select which links to show in the footer
 footer-links-active:
   rss: true
